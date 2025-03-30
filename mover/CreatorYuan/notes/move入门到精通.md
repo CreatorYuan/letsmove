@@ -356,3 +356,24 @@ sui client call
   - 提供对外的方法销毁这个结构体
 
 
+## move-stdlib 0x1 E:\sui\crates\sui-framework\packages\move-stdlib\sources
+- 完全掌握
+  - ascii.move ascii编码字符串
+  - debug.move 调试代码 打印输出
+  - option.move 可选值
+  - type_name.move 获取结构的类型
+  - vector.move 数组
+- 掌握
+  - bcs.move
+  - bit_vector.move
+  - fixed_point32.move
+  - hash.move
+- 了解
+  - address.move 地址长度
+  - unit_test.move 单元测试生成测试signers
+
+
+## sui-framework 0x2 E:\sui\crates\sui-framework\packages\sui-framework
+## sui-framework 0x3 E:\sui\crates\sui-framework\packages\sui-system
+
+# C:\Users\Administrator\.move\https___github_com_MystenLabs_sui_git_framework__mainnet\crates\sui-framework\packages

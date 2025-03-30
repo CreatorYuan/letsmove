@@ -188,3 +188,27 @@ git reset --hard origin/master
 git pull 
 ```
 
+当你在执行 git pull 命令时遇到提示“You have divergent branches and need to specify how to reconcile them”，意味着你的本地分支和远程分支存在差异，需要你指定合并或变基的策略。‌
+
+原因
+当本地分支和远程分支有不同的提交历史时，Git 无法自动决定如何合并这些差异。这通常发生在以下情况：
+
+‌合并（Merge）‌：默认策略，会将远程分支的更改合并到本地分支。
+‌变基（Rebase）‌：将本地分支上的更改应用到远程分支的最新提交上。
+‌仅快进（Fast-forward only）‌：只有在可以快进的情况下才进行合并，否则会报错。
+解决步骤
+‌设置默认策略‌：
+
+使用 git config pull.rebase false 来设置默认合并策略。
+使用 git config pull.rebase true 来设置默认变基策略。
+使用 git config pull.ff only 来设置仅快进策略。
+你可以使用 git config --global 来为所有仓库设置默认策略。
+‌临时指定策略‌：
+
+在执行 git pull 时，可以使用 --rebase、--no-rebase 或 --ff-only 参数来临时指定策略。
+‌执行 git pull‌：
+
+根据你选择的策略执行 git pull 命令。例如，如果你选择了变基策略，可以运行 git pull --rebase。
+通过以上步骤，你可以根据需要选择合适的合并或变基策略，解决分支差异问题。
+
+

@@ -86,3 +86,11 @@ sui client transfer --to 0x7b8e0864967427679b4e129f79dc332a885c6087ec9e187b53451
 # ATrd4yFycgeYhED2yWRMyCCDfPRDbmXx9RErWEpJW4QS
 ```
 
+# 查询代币价值  预言机 pyth
+https://docs.pyth.network/price-feeds/use-real-time-data/sui
+
+# 像flutter可以开发作为dapp的前端么，sui做后端，有现成的库吗
+https://github.com/sui-foundation/sui-move-intro-course
+https://github.com/mofalabs/sui
+
+https://docs.sui.io/sui-api-ref#sui_getobject
