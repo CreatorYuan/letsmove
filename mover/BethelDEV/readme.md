@@ -19,23 +19,23 @@
 - [x] package id 在 scan上的查看截图:![Scan截图](./images/package01.png)
 
 ##   02 move coin
-- [] My Coin package id : 
-- [] Faucet package id : 
-- [] 转账 `My Coin` hash:
-- [] `Faucet Coin` address1 mint hash:
-- [] `Faucet Coin` address2 mint hash:
+- [x] My Coin package id : [0x659c9d2eada860b6c0b6e93b7735563a32a4aa6a57317c661d46bb63d71252a7](https://suiscan.xyz/mainnet/object/0x659c9d2eada860b6c0b6e93b7735563a32a4aa6a57317c661d46bb63d71252a7/)
+- [x] Faucet package id : 0x659c9d2eada860b6c0b6e93b7735563a32a4aa6a57317c661d46bb63d71252a7
+- [x] 转账 `My Coin` hash: [85HQjxRsYEFadSpGAkBwE2CDeSqUCQq1huSNoKeztRJ7](https://suiscan.xyz/mainnet/tx/85HQjxRsYEFadSpGAkBwE2CDeSqUCQq1huSNoKeztRJ7)
+- [x] `Faucet Coin` address1 mint hash: [3r6v7dAGvfPytC4NpKttHwXZ2aPoGyNRRa8K2BdLBUsM](https://suiscan.xyz/mainnet/tx/3r6v7dAGvfPytC4NpKttHwXZ2aPoGyNRRa8K2BdLBUsM)
+- [x] `Faucet Coin` address2 mint hash: [8U4kShqFNXJ2yFvMYeizPJBfssinagJ6ZfgQa59NdxB8](https://suiscan.xyz/mainnet/tx/8U4kShqFNXJ2yFvMYeizPJBfssinagJ6ZfgQa59NdxB8)
 
 ##   03 move NFT
-- [] nft package id :
-- [] nft object id : 
-- [] 转账 nft  hash:
-- [] scan上的NFT截图:![Scan截图](./images/你的图片地址)
+- [x] nft package id :[0x397edb8207a6867a79db9187304f77221a3475639582f2bed03bb28e1d6d0b28](https://suiscan.xyz/mainnet/object/0x397edb8207a6867a79db9187304f77221a3475639582f2bed03bb28e1d6d0b28)
+- [x] nft object id : 0xc55c66254c745e980c7866139255c052ce1e6721edbb071ef2c497b0b601ce09
+- [x] 转账 nft  hash: [FMVKHi2AHGxFpLs43zyMS7n1n9BKVyeoPPM5KQ6qB4SS](https://suiscan.xyz/mainnet/tx/FMVKHi2AHGxFpLs43zyMS7n1n9BKVyeoPPM5KQ6qB4SS)
+- [x] scan上的NFT截图:![Scan截图](./images/bethel-nft.png)
 
 ##   04 Move Game
-- [] game package id :
-- [] deposit Coin hash:
-- [] withdraw `Coin` hash:
-- [] play game hash:
+- [x] game package id :0x402665d84cff26f8977a99495c299f7fa47913079b96aad45dd665b75186a0db
+- [x] deposit Coin hash:[3TUE7U14DLAy1kAEwmRKPyxC3Da6t4jgfyCHbTRrKMfo](https://suiscan.xyz/mainnet/tx/3TUE7U14DLAy1kAEwmRKPyxC3Da6t4jgfyCHbTRrKMfo)
+- [x] withdraw `Coin` hash:[8eYKXso8LVVd7FQYo7X4mqHsQ9HN3qXbVyNcW1MXETdu](https://suiscan.xyz/mainnet/tx/8eYKXso8LVVd7FQYo7X4mqHsQ9HN3qXbVyNcW1MXETdu)
+- [x] play game hash:[GsXAv1gBoMF1CdLZ6jjhYoWLr8H5iPp38bnXbuyDdT6A](https://suiscan.xyz/mainnet/tx/GsXAv1gBoMF1CdLZ6jjhYoWLr8H5iPp38bnXbuyDdT6A)
 
 ##   05 Move Swap
 - [] swap package id :
