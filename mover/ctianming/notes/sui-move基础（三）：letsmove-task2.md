@@ -153,7 +153,7 @@ public fun create_currency<T: drop>(
 ```
 
 我们来逐一解释一下该函数的参数：
-- witness 是一个类型 `T` 的一次性证明者，确保货币只被创建一次。通过 sui::types::is_one_time_witness 进行检查。具体参考：https://move.sui-book.com/programmability/witness-pattern.html
+- witness 是一个类型 `T` 的一次性见证者，确保货币只被创建一次。通过 sui::types::is_one_time_witness 进行检查。具体参考：https://move.sui-book.com/programmability/witness-pattern.html
 - decimals 指定货币支持的小数位数，定义其精度。
 - symbol 是一个字节向量，表示货币的符号，例如 "USD" 或 "BTC"。
 - name 指定货币的名称。
@@ -408,6 +408,12 @@ help:
 - 返回上一个页面
 ![alt text](image-2.png)
 - 在Contracts窗口中直接调用即可
+
+若要在终端调用，使用：
+
+```bash
+sui client call --package <EXAMPLE> --module 'clock' --function 'access' --args '0x6' --gas-budget <GAS-AMOUNT>
+```
 
 以上就是本次教程的全部内容，如果有不懂的部分，请先自行询问AI或者查阅相关资料。
 

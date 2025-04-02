@@ -19,31 +19,31 @@
 - [✓] package id 在 scan上的查看截图:![Scan截图](./images/scan1.png)
 
 ##   02 move coin
-- [] My Coin package id : 
-- [] Faucet package id : 
-- [] 转账 `My Coin` hash:
-- [] `Faucet Coin` address1 mint hash:
-- [] `Faucet Coin` address2 mint hash:
+- [✓] My Coin package id : 0x539851bd3fa43cd434f05ff588f87eca8db3d3c5007dc5c9093ef5c7028ade62
+- [✓] Faucet package id :  0x4f6935e55fd3cbc2db648a636747246b02d2b231d980dc04ad3253db2e2f5c69
+- [✓] 转账 `My Coin` hash:5LEVnWMZDUCMY8fzUY9TpXJ18Z6Rx9wU3C1CT3efnG2g
+- [✓] `Faucet Coin` address1 mint hash:GNkQxLhYcLLv8fYyAhT6Pk54HqZrwAxnaLotCVMyv3RV
+- [✓] `Faucet Coin` address2 mint hash:4h3icoE3ThTUFM8JiG6ZjHtHywNj5pVzxk2xZerGfR61
 
 ##   03 move NFT
-- [] nft package id :
-- [] nft object id : 
-- [] 转账 nft  hash:
-- [] scan上的NFT截图:![Scan截图](./images/你的图片地址)
+- [✓] nft package id :0xea9c4b07e227f60bb37fe9362533eba22bf0618efe8003e11ca8e81ba04d2aa8
+- [✓] nft object id : 0x2e1aedcad555396f4927b3954829038934f01829f0b58a57e754c3baef507f39
+- [✓] 转账 nft  hash: 7vRXbX9e61do8SnuFLePB1jSgubnUHa6WFAHSJZVqY9s
+- [✓] scan上的NFT截图:![Scan截图](./images/scan2.png)
 
 ##   04 Move Game
-- [] game package id :
-- [] deposit Coin hash:
-- [] withdraw `Coin` hash:
-- [] play game hash:
+- [✓] game package id : 0x16ca93304d3726abce62d6994b79ce356a8f47596213ef9312ee4bd220a8c450
+- [✓] deposit Coin hash:9LDkjMq9gNzBjaNWBh31Zm5afKHMoNaMkGRwYNz6i65E
+- [✓] withdraw `Coin` hash:EihfgSpCLwwoX4PqJg7pKY49qWwZbS13nxFZAzRFjwoY
+- [✓] play game hash:      3hxvyCJi9gBSVmk5HQ8vJkxFp2fnPRfSr1HAxF23KAY5
 
 ##   05 Move Swap
-- [] swap package id :
-- [] call swap CoinA-> CoinB  hash :
-- [] call swap CoinB-> CoinA  hash :
+- [✓] swap package id :0xf2a359730a1e771310e159aba5fccad6a2b9aabf3767167db2b02f32f45f08c9
+- [✓] call swap CoinA-> CoinB  hash :98QcXvCGUPhonTMZk6cq5GmHkWJTcoN2gE6acTca8C3u
+- [✓] call swap CoinB-> CoinA  hash :DEcs4dVJP9cUv96MxY8PgyKTNGvUzLonafgiwvf4XY1U
 
 ##   06 Dapp-kit SDK PTB
-- [] save hash :
+- [✓] save hash :          GNi2cDAnaLzEaK9ncA4fWL39EiZ8JHVQv2wa52QwbVQe
 
 ##   07 Move CTF Check In
 - [] CLI call 截图 : ![截图](./images/你的图片地址)

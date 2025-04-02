@@ -33,18 +33,19 @@
 - [✅] scan上的NFT截图:![Scan截图](./images/mint_alexnft_myaddress.png)
 
 ##   04 Move Game
-- [] game package id :
-- [] deposit Coin hash:
-- [] withdraw `Coin` hash:
-- [] play game hash:
+- [✅] game package id : `0xd58b8295f6bcebbcb3b565cd2506fe547d663e71460fc35c8f77518b03d18172`
+- [✅] deposit Coin hash: `3GaUrZiFRhb4pfp4W1HiaSKntPxvCdJk4w27SLfy6aEA`
+- [✅] withdraw `Coin` hash: `5Kkc4ckL244b1UiqrpNgp36EfCpgkeoA62rtx148eVrC`
+- [✅] play game hash: `Efd8wLmV3QNkF74Cao7jtDu1UXk8r9vTwgzSt6hnKhxn`
 
 ##   05 Move Swap
-- [] swap package id :
-- [] call swap CoinA-> CoinB  hash :
-- [] call swap CoinB-> CoinA  hash :
+- [✅] swap package id : `0x7088ece81ebbbe992bda5097f7f07fec86c7ddfd2759dc2218121ebadf09c8e6`
+- [✅] call swap CoinA-> CoinB  hash : `2Q8CNauAxwqP4Gb54B1ohvXfWiXecUMTNiHqY1jAQDaN`
+- [✅] call swap CoinB-> CoinA  hash : `G4bsraFcW7qvdr4Sg1vX5kFWNCEd1tzSeUHWo19T717C`
 
 ##   06 Dapp-kit SDK PTB
-- [] save hash :
+- [✅] save hash : `HaN5ivgXWD34FxxAjE4yPg58XaCDYwLaC28erCAJ1WSH`
+- [✅] scan上的转账截图: ![scan screenshot](./images/navi.png)
 
 ##   07 Move CTF Check In
 - [] CLI call 截图 : ![截图](./images/你的图片地址)
