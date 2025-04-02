@@ -31,6 +31,7 @@ git config --global user.name "CreatorYuan"
    $ git init    # 初始化本地库
    $ git status  # 查看
    $ git config --global --add safe.directory E:/
+   $ git config --global --add safe.directory E:/git
    $ git status
 On branch master
 
@@ -134,6 +135,7 @@ git pull letsmove main
 
 # clone : 1.拉取代码  2.初始化本地仓库  3.创建别名
 git clone https://github.com/CreatorYuan/letsmove.git
+git clone https://github.com/CreatorYuan/walrus.git
 
 ```
 
@@ -151,6 +153,7 @@ $ git branch -v
 
 
 $ git push git@github.com:CreatorYuan/letsmove.git main
+$ git push git@github.com:CreatorYuan/walrus.git main
 
 
 ```
